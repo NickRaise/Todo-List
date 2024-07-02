@@ -1,8 +1,9 @@
 {
+  "homepage": "https://nickraise.github.io/Todo-List/",
   "name": "todo-app",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "type": "module", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
